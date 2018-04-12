@@ -25,7 +25,7 @@ SECRET_KEY = '8xw*cbaj$^($@$^0z9-3=xj^!=ry@*ama_12+ljf*iyraoex#+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['test-ddnro.c9users.io']
+ALLOWED_HOSTS = ['test-ddnro.c9users.io', 'testherokuddnro.herokuapp.com']
 
 
 # Application definition
